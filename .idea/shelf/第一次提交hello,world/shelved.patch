@@ -1,0 +1,16 @@
+Index: src/priv/huishao/demo/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package priv.huishao.demo;\r\n\r\npublic class HelloWorld {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"hello,world\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/priv/huishao/demo/HelloWorld.java	(revision ad3215cfce023b4f8bbee6fb88dd964b3671a3fc)
++++ src/priv/huishao/demo/HelloWorld.java	(date 1574771546506)
+@@ -3,5 +3,6 @@
+ public class HelloWorld {
+     public static void main(String[] args) {
+         System.out.println("hello,world");
++        System.out.println("我信你个鬼!");
+     }
+ }
