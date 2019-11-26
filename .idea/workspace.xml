@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab20b274-ac30-47aa-91f8-e3e83aaee6e8" name="Default Changelist" comment="第一次提交hello,world" />
+    <list default="true" id="ab20b274-ac30-47aa-91f8-e3e83aaee6e8" name="Default Changelist" comment="Merge branch 'master' of https://github.com/binnetwork/demo1&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml&#10;#&#9;src/priv/huishao/demo/HelloWorld.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="E:\ideasource\demo1-git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/priv/huishao/demo/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="217">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -66,26 +68,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo1-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo1-git" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo1-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo1-git" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -123,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574771281697</updated>
-      <workItem from="1574771285105" duration="4743000" />
+      <workItem from="1574771285105" duration="5002000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交hello,world">
       <created>1574772037554</created>
@@ -153,11 +141,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574775196747</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交hello,world7777">
+      <created>1574776189897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574776189897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4743000" />
+    <option name="totallyTimeSpent" value="5002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -167,14 +162,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.48725212" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49932975" weight="0.37818697" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49865952" visible="true" weight="0.37818697" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.15014164" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.37818697" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -198,7 +193,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交hello,world" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交hello,world" />
+    <MESSAGE value="第一次提交hello,world7777" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交hello,world7777" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
@@ -217,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/priv/huishao/demo/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="217">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
